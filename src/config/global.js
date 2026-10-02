@@ -238,7 +238,7 @@ export default {
       referencia:
         'Guarnizo, F. C. y Cárdenas, S. M. (2015). Costos por órdenes de producción y por procesos. La Salle.',
       link:
-        'https://es.scribd.com/book/485288049/Costos-por-ordenes-de-produccion-y-por-procesos',
+        'https://ciencia.lasalle.edu.co/items/b0933236-7829-4ebf-9c1f-d77eedaf53da',
     },
 
     {
@@ -281,8 +281,7 @@ export default {
     {
       referencia:
         'Rincón C. y Narváez J. (2017) Presupuestos bajo normas internacionales de información financiera y taxonomía XBRL. Ediciones de la U.',
-      link:
-        'https://es.scribd.com/read/436221926/Presupuestos-Bajo-normas-internacionales-de-informacion-financiera-y-taxonomia-XBRL',
+      link: '',
     },
     {
       referencia:
